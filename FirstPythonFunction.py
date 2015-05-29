@@ -1,4 +1,4 @@
-def createKnowledgeNode() :
+def createKnowledgeNode(content_name) :
     # Create a KnowledgeNode given the content parameter
     import requests
     import json
